@@ -10,11 +10,11 @@ The game generates random math questions and lets the player choose the number o
 - Shows pass/fail final result
 - Allows replaying the game
 # Concepts Practiced
-C++ basics
-Functions
-Enums
-Structs
-Loops and conditions
-Random numbers
-Console input/output
-Basic game flow
+- C++ basics
+- Functions
+- Enums
+- Structs
+- Loops and conditions
+- Random numbers
+- Console input/output
+- Basic game flow
