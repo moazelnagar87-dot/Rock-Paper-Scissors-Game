@@ -18,3 +18,10 @@ The game generates random math questions and lets the player choose the number o
 - Random numbers
 - Console input/output
 - Basic game flow
+# Tech Stack
+- C++
+- Visual Studio
+- Console application
+# Project Status
+Educational project — one of my first C++ practice projects.
+
